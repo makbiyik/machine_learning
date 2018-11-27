@@ -3,7 +3,7 @@ The City of Philadelphia and its partners at Bicycle Transit Systems are pleased
 1.) Indego_bike_prediction.ipynb (Modeling & feature analsis)
 2.) Trip_summary_2018.ipynb(Data analysis)
 
-
+Data: https://www.rideindego.com/about/data/
 
 trip_id: Locally unique integer that identifies the trip
 duration: Length of trip in minutes
